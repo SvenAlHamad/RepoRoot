@@ -12,15 +12,15 @@
     "require": {
         "php": ">=5.5.9",
         "symfony/yaml": "2.5.*",
-        "sven-al-hamad/component-a": "~3.0",
-        "sven-al-hamad/component-b": "~3.0"
+        "sven-al-hamad/component-a": "~3.1",
+        "sven-al-hamad/component-b": "~3.1"
     },
     "require-dev": {
         "phpunit/phpunit": "~4"
     },
     "extras": {
         "branch-alias": {
-            "dev-master": "3.0-dev"
+            "dev-master": "3.1-dev"
         }
     }
 }
