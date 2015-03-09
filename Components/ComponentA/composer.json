@@ -1,23 +1,23 @@
 {
-  "name": "sven-al-hamad/component-a",
-  "type": "library",
-  "license": "MIT",
-  "authors": [
-    {
-      "name": "Sven Al Hamad",
-      "email": "sven@webiny.com"
+    "name": "sven-al-hamad/component-a",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sven Al Hamad",
+            "email": "sven@webiny.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4"
+    },
+    "extras": {
+        "branch-alias": {
+            "dev-master": "2.4-dev"
+        }
     }
-  ],
-  "minimum-stability": "dev",
-  "require": {
-    "php": ">=5.5.9"
-  },
-  "require-dev": {
-    "phpunit/phpunit": "~4"
-  },
-  "extras": {
-    "branch-alias": {
-      "dev-master": "master-dev"
-    }
-  }
 }
