@@ -1,0 +1,26 @@
+{
+  "name": "sven-al-hamad/repo-root",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Sven Al Hamad",
+      "email": "sven@webiny.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.5.9",
+    "symfony/yaml": "2.5.*",
+    "sven-al-hamad/component-a": "self.version",
+    "sven-al-hamad/component-b": "self.version"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "~4"
+  },
+  "extras": {
+    "branch-alias": {
+      "dev-master": "master-dev"
+    }
+  }
+}
