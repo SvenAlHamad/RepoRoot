@@ -11,14 +11,14 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.5.9",
-        "sven-al-hamad/component-a": "~0.1"
+        "sven-al-hamad/component-a": "~6.0"
     },
     "require-dev": {
         "phpunit/phpunit": "~4"
     },
     "extras": {
         "branch-alias": {
-            "dev-master": "0.1-dev"
+            "dev-master": "6.0-dev"
         }
     }
 }
